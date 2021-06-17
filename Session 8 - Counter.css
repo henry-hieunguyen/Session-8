@@ -1,0 +1,13 @@
+button,p,h1 {
+    display: inline-block;
+    margin-left: 15px;
+}
+
+#container {
+    width: 50%;
+    height: 100%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
